@@ -1,0 +1,60 @@
+body{
+    background-color: rgba(242, 245, 106, 0.678);
+    font-family:serif;
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+h1{ 
+    display: inline-block;
+    text-align: center;
+    font-size: 80px;
+    color: rgb(19, 19, 179);
+    box-shadow: 4px 4px 4px rgba(13, 14, 13, 0.808);
+    position: relative;
+    left: 300px;
+
+}
+img{
+position: relative;
+left: 500px;
+}
+h2{
+    text-align: center;
+    font-size: 50px;
+}
+
+h3{
+    text-align: center;
+    font-size: 40px;
+}
+
+h4{ 
+    text-align: center;
+    font-size: 40px;
+}
+a{
+    text-align: center;
+    font-size: 20px;
+}
+h5{
+    text-align: center;
+    font-size: 40px;
+}
+form{
+    text-align: center;
+    font-size: 20px;
+    border-style: double;
+    border-color: rgb(39, 37, 37);
+    border-radius: 2px;
+}
+footer{
+    text-align: center;
+    color: rgba(59, 58, 58, 0.644);
+    background-color: rgb(230, 225, 161);
+    font-size: 15px;
+}
+h6{
+    text-align: center;
+    font-size: 50px;
+
+}
